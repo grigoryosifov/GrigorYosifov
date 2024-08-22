@@ -28,7 +28,7 @@ A snapshot of the key technologies I’ve mastered:
 - **CI/CD:** Jenkins, GitLab CI/CD
 - **Operating Systems:** Linux (AlmaLinux, Debian, Ubuntu, Fedora, Slackware, CentOS), BSD (FreeBSD, OpenBSD), macOS (OS X), DSM (Synology NAS OS)
 - **Server Management:** WHM/cPanel, Virtualmin, PF (OpenBSD/FreeBSD firewall)
-- **Daemons:** nginx, Apache, BIND
+- **Favorite Daemons:** nginx, Apache, BIND
 
 ### **Tools & Development Environment**
 - **IDEs:** JetBrains IntelliJ IDEA, PhpStorm
