@@ -1,16 +1,8 @@
 # Hi there 👋, I'm Grigor Yosifov
-
-### Entrepreneur, Experienced Team Leader, and Full-Stack Developer
-
-![Profile Views](https://komarev.com/ghpvc/?username=grigoryosifov&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 👨‍💻 About Me
+**Entrepreneur, Experienced Team Leader, and Full-Stack Developer**
 
 As the CEO of [Forci Web Consulting](https://forci.com) and former CTO at Taylor & Hart, I've been at the forefront of driving digital innovation and delivering scalable, high-performance solutions. With over 20 years of experience, I've honed a deep understanding of business structures, AI-driven automation, CRM systems, and Agile methodologies. My passion lies in leveraging cutting-edge technologies to solve complex challenges and empower businesses to achieve sustainable growth.
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -53,7 +45,6 @@ A snapshot of the key technologies I’ve mastered:
 - **Media Editing:** Adobe Premiere Pro
 - **UX & Aesthetics:** Expertise in crafting user experiences that are both intuitive and visually engaging, with a keen eye for design aesthetics.
 
----
 
 ## 🚀 Projects & Achievements
 
@@ -64,7 +55,6 @@ Throughout my career, I've led and contributed to over 100 successful projects. 
 - **Ministry of Foreign Affairs (Bulgaria):** Provided security consultation and implemented technical measures.
 - **Ministry of Culture (Bulgaria):** Developed a PHP-based web application for electronically signing documents with qualified certificates, enhancing the security and efficiency of their document management processes.
 
----
 
 ## 🌱 I’m currently...
 
@@ -72,7 +62,6 @@ Throughout my career, I've led and contributed to over 100 successful projects. 
 - 💡 Consulting on tech strategies to help startups scale and optimize their operations.
 - 📝 Writing about tech and entrepreneurship on my blog - [GRIGOR.COM](https://grigor.com).
 
----
 
 ## 🤝 Connect with Me
 
@@ -80,8 +69,9 @@ Throughout my career, I've led and contributed to over 100 successful projects. 
 [![Connect with Me on LinkedIn](https://img.shields.io/badge/Connect%20with%20Me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/grigoryosifov)
 [![Connect with Me on X](https://img.shields.io/badge/Connect%20with%20Me%20on%20X-black?style=for-the-badge&logo=x)](https://x.com/GrigorYosifov)
 
----
 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grigoryosifov)
+
+![Profile Views](https://komarev.com/ghpvc/?username=grigoryosifov&label=Profile%20views&color=0e75b6&style=flat)
