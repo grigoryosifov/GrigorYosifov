@@ -13,7 +13,7 @@ A snapshot of the key technologies I’ve mastered:
 - **Frontend:** JavaScript, HTML5, CSS3
 - **Frameworks:** Symfony, Laravel, Zend Framework
 - **Scripting & Automation:** bash, Tcl
-- **Regular Expressions:** PCRE (Perl Compatible Regular Expressions)
+- **Advanced:** SOLID, various software design patterns, PCRE (Perl Compatible Regular Expressions)
 
 ### **APIs & Data**
 - **APIs:** GraphQL, SOAP, REST (JSON, XML)
