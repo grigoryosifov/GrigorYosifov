@@ -1,4 +1,4 @@
-# Hi 👋, I'm Grigor Yosifov
+# Hi there 👋, I'm Grigor Yosifov
 
 ### Entrepreneur, Experienced Team Leader, and Full-Stack Developer
 
@@ -59,8 +59,8 @@ A snapshot of the key technologies I’ve mastered:
 
 Throughout my career, I've led and contributed to over 100 successful projects. Here are a few highlights:
 
+- **Forci Web Consulting:** As a founder and CEO, I have shaped the vision and strategy that drives Forci, a company with over 100 successful projects and a 70% client referral rate, proving our status as a trusted partner in delivering tangible value. Notable clients include Walt Disney International, Schneider Electric, and Jack Daniel's.
 - **Taylor & Hart:** As CTO, I helped the company surpass £10 million in annual revenue by leading a digital-first approach in the bespoke jewelry market.
-- **Forci Web Consulting:** I have shaped the vision and strategy that drives Forci, a company with over 100 successful projects and a 70% client referral rate, proving our status as a trusted partner in delivering tangible value. Notable clients include Walt Disney International, Schneider Electric, and Jack Daniel's.
 - **Ministry of Foreign Affairs (Bulgaria):** Provided security consultation and implemented technical measures.
 - **Ministry of Culture (Bulgaria):** Developed a PHP-based web application for electronically signing documents with qualified certificates, enhancing the security and efficiency of their document management processes.
 
@@ -76,8 +76,9 @@ Throughout my career, I've led and contributed to over 100 successful projects. 
 
 ## 🤝 Connect with Me
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/grigoryosifov)
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-grigor.com-000000?style=for-the-badge&logo=google-chrome)](https://grigor.com)
+[![Visit My Blog at GRIGOR.COM](https://img.shields.io/badge/Visit%20My%20Blog%20at%20GRIGOR.COM-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTUuNCAyMDAuNyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7c3Ryb2tlOiNmZmY7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fTwvc3R5bGU+PC9kZWZzPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTE1OC40LDU5LjRjLTUuNC0xMS40LTEzLjMtMjAuMy0yMy42LTI2LjUtMTAuMy02LjMtMjIuMy05LjQtMzUuOS05LjRzLTI2LDMuMS0zNi45LDkuNGMtMTEsNi4zLTE5LjYsMTUuMy0yNS44LDI3LTYuMywxMS43LTkuNCwyNS4yLTkuNCw0MC42czMuMSwyOC44LDkuNCw0MC40LDE0LjksMjAuNiwyNS44LDI2LjhjMTEsNi4zLDIzLjMsOS40LDM2LjksOS40czM0LjgtNS43LDQ3LjItMTcuMWMxMi40LTExLjQsMTkuNi0yNi45LDIxLjYtNDYuM2gtNzguMXYtMjAuOGgxMDUuM3YxOS43Yy0xLjUsMTYuMS02LjYsMzAuOS0xNS4yLDQ0LjItOC42LDEzLjQtMTkuOSwyNC0zNCwzMS43LTE0LDcuOC0yOS43LDExLjctNDYuOSwxMS43cy0zNC43LTQuMy00OS43LTEyLjhjLTE1LTguNS0yNi44LTIwLjQtMzUuNS0zNS41QzQuOSwxMzYuNy41LDExOS42LjUsMTAwLjVzNC40LTM2LjMsMTMuMS01MS41YzguNy0xNS4zLDIwLjUtMjcuMSwzNS41LTM1LjdDNjQuMSw0LjcsODAuNy41LDk4LjguNXMzOS4yLDUuMiw1NS4yLDE1LjRjMTYsMTAuMywyNy43LDI0LjgsMzUsNDMuNWgtMzAuNloiLz48L3N2Zz4=)](https://grigor.com)
+[![Connect with Me on LinkedIn](https://img.shields.io/badge/Connect%20with%20Me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/grigoryosifov)
+[![Connect with Me on X](https://img.shields.io/badge/Connect%20with%20Me%20on%20X-black?style=for-the-badge&logo=x)](https://linkedin.com/in/grigoryosifov)
 
 ---
 
